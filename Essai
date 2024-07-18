@@ -1,0 +1,7 @@
+echo "# Conversions_intensites" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jthomas89130/Conversions_intensites.git
+git push -u origin main
